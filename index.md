@@ -7,6 +7,7 @@ Buzz Mobile Health is an organization of students at Georgia Tech that aims to r
 Follow Us on...
 
 [Facebook] (https://www.facebook.com/buzzmobilehealth/)
+
 [Instagram] (https://www.instagram.com/buzzmobilehealth/)
 
 ### Contact Us
